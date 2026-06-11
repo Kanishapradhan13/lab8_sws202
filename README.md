@@ -2,6 +2,8 @@
 
 # Introduction to Active Directory
 
+!! LABS ARE IN ASSIGNMENT4 !!
+
 ## Why Active Directory?
 Microsoft’s Active Directory (AD) provides an organization with central administration of information about users, computers, printers, file shares and other objects in a network. It can be thought of as the combination of a company telephone directory and a security guard - it lets you know who you are, what you can access, and allows you to log in once to use all resources.
 
